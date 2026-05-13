@@ -1,0 +1,17 @@
+[
+  {
+    "id": "data-importer",
+    "name": "FlexCore Data Importer",
+    "description": "Import bulk registers via CSV",
+    "version": "1.0.0",
+    "author": "SanCal Produções",
+    "author_url": "https://sancalproducoes.com.br",
+    "min_flexcore": "1.0.0",
+    "tags": ["importação", "csv", "dados"],
+    "download_url": "https://github.com/marcossancal/flexcore-plugin-importer/releases/latest/download/plugin.zip",
+    "readme_url": "https://raw.githubusercontent.com/marcossancal/flexcore-plugin-importer/main/README.md",
+    "banner_url": "https://raw.githubusercontent.com/marcossancal/flexcore-plugin-importer/main/banner.png",
+    "downloads": 0,
+    "rating": 5.0
+  }
+]
