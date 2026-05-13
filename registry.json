@@ -9,7 +9,7 @@
     "min_flexcore": "1.0.0",
     "license": "GPL-3.0",
     "tags": ["importação", "csv", "dados"],
-    "download_url": "https://github.com/marcossancal/FlexCore-Plugin-importer/releases/latest/download/plugin.zip",
+    "download_url": "https://github.com/marcossancal/FlexCore-Plugin-importer/archive/refs/tags/v1.0.0.zip",
     "repository_url": "https://github.com/marcossancal/FlexCore-Plugin-importer"
   }
 ]
