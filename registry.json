@@ -1,17 +1,15 @@
 [
   {
-    "id": "data-importer",
+    "id": "flexcore-plugin-importer",
     "name": "FlexCore Data Importer",
-    "description": "Import bulk registers via CSV",
+    "description": "Importa registros em massa via CSV com mapeamento visual de colunas para campos da entidade.",
     "version": "1.0.0",
-    "author": "SanCal Produções",
-    "author_url": "https://sancalproducoes.com.br",
+    "author": "Marcos Sanches",
+    "author_url": "https://github.com/marcossancal",
     "min_flexcore": "1.0.0",
+    "license": "GPL-3.0",
     "tags": ["importação", "csv", "dados"],
-    "download_url": "https://github.com/marcossancal/flexcore-plugin-importer/releases/latest/download/plugin.zip",
-    "readme_url": "https://raw.githubusercontent.com/marcossancal/flexcore-plugin-importer/main/README.md",
-    "banner_url": "https://raw.githubusercontent.com/marcossancal/flexcore-plugin-importer/main/banner.png",
-    "downloads": 0,
-    "rating": 5.0
+    "download_url": "https://github.com/marcossancal/FlexCore-Plugin-importer/archive/refs/tags/v1.0.0.zip",
+    "repository_url": "https://github.com/marcossancal/FlexCore-Plugin-importer"
   }
 ]
