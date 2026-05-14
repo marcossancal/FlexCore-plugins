@@ -11,5 +11,18 @@
     "tags": ["importação", "csv", "dados"],
     "download_url": "https://github.com/marcossancal/FlexCore-Plugin-importer/archive/refs/tags/v1.0.0.zip",
     "repository_url": "https://github.com/marcossancal/FlexCore-Plugin-importer"
+  },
+    {
+    "id": "flexcore-plugin-repeaterfield",
+    "name": "FlexCore Repeater Field",
+    "description": "Cria a opção de campos repetiveis na entidade.",
+    "version": "1.0.0",
+    "author": "Marcos Sanches",
+    "author_url": "https://github.com/marcossancal",
+    "min_flexcore": "1.0.0",
+    "license": "GPL-3.0",
+    "tags": ["entities", "field", "repeater"],
+    "download_url": "https://github.com/marcossancal/FlexCore-Plugin-RepeaterField/archive/refs/tags/v1.0.0.zip",
+    "repository_url": "https://github.com/marcossancal/FlexCore-Plugin-RepeaterField"
   }
 ]
